@@ -18,5 +18,25 @@
     <ClCompile Include="Main.c">
       <Filter>Archivos de código fuente</Filter>
     </ClCompile>
+    <ClCompile Include="Clientes.c">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\DAM\Programacion\proyecto\ProyectoC\ProyectoC\Consola.c">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\DAM\Programacion\proyecto\ProyectoC\ProyectoC\Menu.c">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Clientes.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\DAM\Programacion\proyecto\ProyectoC\ProyectoC\Consola.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\DAM\Programacion\proyecto\ProyectoC\ProyectoC\Menu.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
